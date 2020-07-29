@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/excellia/static/css/main.dbaa3ec2.chunk.css",
+    "main.js": "/excellia/static/js/main.dab97715.chunk.js",
+    "main.js.map": "/excellia/static/js/main.dab97715.chunk.js.map",
+    "runtime-main.js": "/excellia/static/js/runtime-main.46bafc22.js",
+    "runtime-main.js.map": "/excellia/static/js/runtime-main.46bafc22.js.map",
+    "static/js/2.5fbe721a.chunk.js": "/excellia/static/js/2.5fbe721a.chunk.js",
+    "static/js/2.5fbe721a.chunk.js.map": "/excellia/static/js/2.5fbe721a.chunk.js.map",
+    "index.html": "/excellia/index.html",
+    "precache-manifest.46803ad98927d3b854eeea09c06eddc2.js": "/excellia/precache-manifest.46803ad98927d3b854eeea09c06eddc2.js",
+    "service-worker.js": "/excellia/service-worker.js",
+    "static/css/main.dbaa3ec2.chunk.css.map": "/excellia/static/css/main.dbaa3ec2.chunk.css.map",
+    "static/js/2.5fbe721a.chunk.js.LICENSE.txt": "/excellia/static/js/2.5fbe721a.chunk.js.LICENSE.txt",
+    "static/media/cloud.svg": "/excellia/static/media/cloud.26322894.svg",
+    "static/media/style.scss": "/excellia/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/features.svg": "/excellia/static/media/features.af8c475e.svg",
+    "static/media/heart.svg": "/excellia/static/media/heart.095cbef3.svg",
+    "static/media/link.png": "/excellia/static/media/link.e03402ae.png",
+    "static/media/person.png": "/excellia/static/media/person.bd00b1d2.png",
+    "static/media/video-placeholder.jpg": "/excellia/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46bafc22.js",
+    "static/js/2.5fbe721a.chunk.js",
+    "static/css/main.dbaa3ec2.chunk.css",
+    "static/js/main.dab97715.chunk.js"
+  ]
+}
