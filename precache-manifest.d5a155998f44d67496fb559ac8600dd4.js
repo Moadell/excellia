@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd36188fce5269c8eb0fa7b161505140",
+    "revision": "9e9a8e5528a2e1b374ea1080ee402b4e",
     "url": "/excellia/index.html"
   },
   {
-    "revision": "8084e6fe8d6d760c20b7",
+    "revision": "ad05b5bcb04c8bf38823",
     "url": "/excellia/static/css/main.dbaa3ec2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/excellia/static/js/2.5fbe721a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8084e6fe8d6d760c20b7",
-    "url": "/excellia/static/js/main.c9dbf78a.chunk.js"
+    "revision": "ad05b5bcb04c8bf38823",
+    "url": "/excellia/static/js/main.9fc4a02d.chunk.js"
   },
   {
     "revision": "adb65156aa64270017ea",

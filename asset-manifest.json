@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/excellia/static/css/main.dbaa3ec2.chunk.css",
-    "main.js": "/excellia/static/js/main.c9dbf78a.chunk.js",
-    "main.js.map": "/excellia/static/js/main.c9dbf78a.chunk.js.map",
+    "main.js": "/excellia/static/js/main.9fc4a02d.chunk.js",
+    "main.js.map": "/excellia/static/js/main.9fc4a02d.chunk.js.map",
     "runtime-main.js": "/excellia/static/js/runtime-main.46bafc22.js",
     "runtime-main.js.map": "/excellia/static/js/runtime-main.46bafc22.js.map",
     "static/js/2.5fbe721a.chunk.js": "/excellia/static/js/2.5fbe721a.chunk.js",
     "static/js/2.5fbe721a.chunk.js.map": "/excellia/static/js/2.5fbe721a.chunk.js.map",
     "index.html": "/excellia/index.html",
-    "precache-manifest.baf990ceae6c8da5291427b467801053.js": "/excellia/precache-manifest.baf990ceae6c8da5291427b467801053.js",
+    "precache-manifest.d5a155998f44d67496fb559ac8600dd4.js": "/excellia/precache-manifest.d5a155998f44d67496fb559ac8600dd4.js",
     "service-worker.js": "/excellia/service-worker.js",
     "static/css/main.dbaa3ec2.chunk.css.map": "/excellia/static/css/main.dbaa3ec2.chunk.css.map",
     "static/js/2.5fbe721a.chunk.js.LICENSE.txt": "/excellia/static/js/2.5fbe721a.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.46bafc22.js",
     "static/js/2.5fbe721a.chunk.js",
     "static/css/main.dbaa3ec2.chunk.css",
-    "static/js/main.c9dbf78a.chunk.js"
+    "static/js/main.9fc4a02d.chunk.js"
   ]
 }
