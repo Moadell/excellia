@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/excellia/precache-manifest.3d5b7a2d67aa36b13bdd6064580e3d7d.js"
+  "/excellia/precache-manifest.2f7094a8ace0c91c3974b4cdcc5612ad.js"
 );
 
 self.addEventListener('message', (event) => {
