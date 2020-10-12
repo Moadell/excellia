@@ -3,7 +3,6 @@ import classNames from 'classnames';
 import MobileStoreButton from 'react-mobile-store-button';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
-import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
 
@@ -66,7 +65,7 @@ const Hero = ({
             </h1>
             <Image
                 className="has-shadow"
-                src={require('./../../assets/images/excellia1.png')}
+                src={require('./../../assets/images/excellia1.svg')}
                 alt="Hero"
                 width={500}
                 height={300} />
@@ -98,7 +97,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/video-placeholder.svg')}
                 alt="Hero"
                 width={896}
                 height={504} />

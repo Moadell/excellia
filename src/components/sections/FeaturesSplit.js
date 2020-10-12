@@ -79,7 +79,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/link.png')}
+                  src={require('./../../assets/images/link2.svg')}
                   alt="social"
                   width={400}
                   height={100} />
@@ -102,7 +102,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/dt.png')}
+                  src={require('./../../assets/images/dt.svg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/free.png')}
+                  src={require('./../../assets/images/free.svg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
@@ -147,7 +147,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/person.png')}
+                  src={require('./../../assets/images/person.svg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />

@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div style={{color : "white"}}>copyright © Excellia Technical Team. All right reserved</div>
+            <div style={{color : "white"}}> © copyright 2020 Excellia Technical Team. All right reserved</div>
           </div>
         </div>
       </div>
